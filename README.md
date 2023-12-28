@@ -4,6 +4,9 @@ Hi, My name is Debanik Saha<br>I am a full stack enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/found_debanik) 
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Gunn3R26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
@@ -22,7 +25,7 @@ Hi, My name is Debanik Saha<br>I am a full stack enthusiast
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
